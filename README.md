@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Aradhana Srivastava 
 
-<!--
-**daradhana/daradhana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Data Analyst , transforming raw data into meaningful insights that support business decisions.
 
-Here are some ideas to get you started:
+### Technical Skills
+- **Business Intelligence:** Power BI, DAX, Power Query
+- **Databases:** SQL, SQL Server
+- **Data Analysis:** Excel, Python, Pandas, NumPy
+- **Core Skills:** Data Cleaning, Data Modeling, KPI Development, Dashboard Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+- **Digital Content Performance Insights** — YouTube performance, audience insights, and growth trends using Power BI.
+- **Automotive Dealer Analytics** — Dealer inventory, vehicle sales, and after-sales retention analysis.
+
+### Connect With Me
+- LinkedIn: https://www.linkedin.com/in/daradhanasri25/
