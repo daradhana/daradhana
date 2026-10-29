@@ -14,3 +14,6 @@ A Data Analyst , transforming raw data into meaningful insights that support bus
 
 ### Connect With Me
 - LinkedIn: https://www.linkedin.com/in/daradhanasri25/
+
+### Contact:
+Reach out to me via email at daradhanasri25@gmail.com
